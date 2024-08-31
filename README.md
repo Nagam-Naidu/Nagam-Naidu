@@ -51,7 +51,7 @@ I'm passionate about building robust and scalable automation frameworks from scr
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagam-Naidu&layout=compact&theme=radical)
 
 ## GitHub Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nagam-Naidu&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nagam-Naidu&theme=react-dark)
 
 ## Visitor Badge
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Nagam-Naidu)

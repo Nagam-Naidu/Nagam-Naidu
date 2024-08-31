@@ -33,7 +33,7 @@ I'm passionate about building robust and scalable automation frameworks from scr
 - **Performance Engineering:** Focused on enhancing application performance through load testing, optimization, and monitoring with Grafana.
 
 ## 🏆 Achievements
-![Sanity API Migration](https://img.shields.io/badge/Sanity%20API%20Migration-%E2%9C%94-green?style=for-the-badge)
+![API Migration](https://img.shields.io/badge/API%20Migration-%E2%9C%94-green?style=for-the-badge)
 Successfully reduced the execution time from approximately 15 minutes to just 2 minutes by migrating it to Kubernetes. This migration not only improved performance but also enhanced the scalability and reliability of the API, allowing it to handle larger volumes of requests with ease. The Kubernetes deployment ensured optimal resource allocation and automated scaling based on demand.
 
 ![Selenium Grid Migration](https://img.shields.io/badge/Selenium%20Grid%20Migration-%E2%9C%94-green?style=for-the-badge)

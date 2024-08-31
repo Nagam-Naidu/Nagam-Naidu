@@ -15,7 +15,7 @@ I'm passionate about building robust and scalable automation frameworks from scr
 ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
 ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
 
-### 🚀 My Expertise Includes:
+### 🚀 My Expertise:
 - **Framework Development:** Built multiple auto-scalable automation frameworks designed for flexibility and performance.
   - **Pytest:** Developed frameworks for unit and integration testing, ensuring thorough validation of code quality.
   - **Puppeteer:** Created UI performance testing frameworks to benchmark and optimize front-end applications.
@@ -32,16 +32,20 @@ I'm passionate about building robust and scalable automation frameworks from scr
 - **Continuous Integration:** Integrated these frameworks into CI/CD pipelines using tools like Jenkins, enabling seamless testing and deployment processes.
 - **Performance Engineering:** Focused on enhancing application performance through load testing, optimization, and monitoring with Grafana.
 
-## Milestone
-- **API Migration:** Successfully reduced the execution time from approximately 15 minutes to just 2 minutes by migrating it to Kubernetes. This migration not only improved performance but also enhanced the scalability and reliability of the API, allowing it to handle larger volumes of requests with ease. The Kubernetes deployment ensured optimal resource allocation and automated scaling based on demand.
+## 🏆 Achievements
+![Sanity API Migration](https://img.shields.io/badge/Sanity%20API%20Migration-%E2%9C%94-green?style=for-the-badge)
+Successfully reduced the execution time from approximately 15 minutes to just 2 minutes by migrating it to Kubernetes. This migration not only improved performance but also enhanced the scalability and reliability of the API, allowing it to handle larger volumes of requests with ease. The Kubernetes deployment ensured optimal resource allocation and automated scaling based on demand.
 
-- **Selenium Grid Migration:** Revolutionized the test automation process by migrating Selenium Grid to Kubernetes, significantly improving the ability to scale parallel automation. This migration allowed for dynamic scaling of nodes based on the workload, enabling faster execution of test suites and reducing overall test execution time. The Kubernetes-based grid also enhanced fault tolerance and simplified the management of test environments across different clusters.
+![Selenium Grid Migration](https://img.shields.io/badge/Selenium%20Grid%20Migration-%E2%9C%94-green?style=for-the-badge)
+Revolutionized the test automation process by migrating Selenium Grid to Kubernetes, significantly improving the ability to scale parallel automation. This migration allowed for dynamic scaling of nodes based on the workload, enabling faster execution of test suites and reducing overall test execution time. The Kubernetes-based grid also enhanced fault tolerance and simplified the management of test environments across different clusters.
 
-- **CI/CD Pipeline Integration:** Played a pivotal role in integrating continuous performance testing into the CI/CD pipeline, with seamless Grafana integration for real-time monitoring. This integration provided immediate feedback on performance metrics during the development cycle, ensuring that performance regressions were identified and addressed early. The use of Grafana dashboards enabled the visualization of key performance indicators, making it easier for teams to track progress and make data-driven decisions.
+![CI/CD Pipeline Integration](https://img.shields.io/badge/CI/CD%20Pipeline%20Integration-%E2%9C%94-green?style=for-the-badge)
+Played a pivotal role in integrating continuous performance testing into the CI/CD pipeline, with seamless Grafana integration for real-time monitoring. This integration provided immediate feedback on performance metrics during the development cycle, ensuring that performance regressions were identified and addressed early. The use of Grafana dashboards enabled the visualization of key performance indicators, making it easier for teams to track progress and make data-driven decisions.
 
 
 ## Connect with Me
-- [LinkedIn](www.linkedin.com/in/nagamnaidu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%E2%9C%94-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nagamnaidu/)
+[![GitHub](https://img.shields.io/badge/GitHub-%E2%9C%94-black?style=for-the-badge&logo=github)](https://github.com/Nagam-Naidu)
 
 ## Visitor Badge
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Nagam-Naidu)

@@ -1,14 +1,9 @@
 I'm Nagam Naidu 👋
 
-<img src="https://github.com/Nagam-Naidu/Nagam-Naidu/blob/main/assets/header.png" width="800" />
-
 ### Lead SDET | Automation Engineer | CI/CD Enthusiast
 
 I'm passionate about building robust and scalable automation frameworks from scratch. With a deep understanding of testing methodologies and automation technologies, I specialize in creating end-to-end solutions that are not only efficient but also adaptable to evolving project needs. My frameworks are designed to integrate seamlessly into CI/CD pipelines, ensuring continuous delivery of high-quality software.
 
----
-
-<img src="https://github.com/Nagam-Naidu/Nagam-Naidu/blob/main/assets/expertise.png" width="800" />
 
 ### 🚀 My Expertise Includes:
 - **Framework Development:** Built multiple auto-scalable automation frameworks designed for flexibility and performance.
@@ -39,7 +34,7 @@ I'm passionate about building robust and scalable automation frameworks from scr
 ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
 
 ## Milestone
-- **Sanity API Migration:** Successfully reduced the execution time from approximately 15 minutes to just 2 minutes by migrating it to Kubernetes. This migration not only improved performance but also enhanced the scalability and reliability of the API, allowing it to handle larger volumes of requests with ease. The Kubernetes deployment ensured optimal resource allocation and automated scaling based on demand.
+- **API Migration:** Successfully reduced the execution time from approximately 15 minutes to just 2 minutes by migrating it to Kubernetes. This migration not only improved performance but also enhanced the scalability and reliability of the API, allowing it to handle larger volumes of requests with ease. The Kubernetes deployment ensured optimal resource allocation and automated scaling based on demand.
 
 - **Selenium Grid Migration:** Revolutionized the test automation process by migrating Selenium Grid to Kubernetes, significantly improving the ability to scale parallel automation. This migration allowed for dynamic scaling of nodes based on the workload, enabling faster execution of test suites and reducing overall test execution time. The Kubernetes-based grid also enhanced fault tolerance and simplified the management of test environments across different clusters.
 

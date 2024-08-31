@@ -6,8 +6,7 @@ I'm Nagam Naidu 👋
 - 👯 I’m looking to collaborate on interesting projects involving test automation and performance testing.
 - 🤔 I’m looking for help with integrating advanced CI/CD tools and practices.
 - 💬 Ask me about test automation, Selenium, Playwright, Jenkins, and Kubernetes.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- ⚡ Fun fact: I love football, EDM, snooker, and traveling to various countries!
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/nagamnaidu)
 
 ## Skills
 - **Programming Languages**: Python, JavaScript, Java
@@ -20,9 +19,7 @@ I'm Nagam Naidu 👋
 - [CI/CD Pipeline Integration](https://github.com/Nagam-Naidu/ci-cd-integration): Continuous integration of performance testing along with Grafana integration.
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-profile)
-- [Personal Website](https://your-personal-website.com)
+- [LinkedIn](www.linkedin.com/in/nagamnaidu)
 
 ## GitHub Stats
 ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagam-Naidu&show_icons=true&theme=radical)

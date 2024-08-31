@@ -4,6 +4,16 @@ I'm Nagam Naidu 👋
 
 I'm passionate about building robust and scalable automation frameworks from scratch. With a deep understanding of testing methodologies and automation technologies, I specialize in creating end-to-end solutions that are not only efficient but also adaptable to evolving project needs. My frameworks are designed to integrate seamlessly into CI/CD pipelines, ensuring continuous delivery of high-quality software.
 
+### 🔧 Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
+![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=playwright)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-333333?style=flat&logo=puppeteer)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
+![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
 
 ### 🚀 My Expertise Includes:
 - **Framework Development:** Built multiple auto-scalable automation frameworks designed for flexibility and performance.
@@ -21,17 +31,6 @@ I'm passionate about building robust and scalable automation frameworks from scr
 
 - **Continuous Integration:** Integrated these frameworks into CI/CD pipelines using tools like Jenkins, enabling seamless testing and deployment processes.
 - **Performance Engineering:** Focused on enhancing application performance through load testing, optimization, and monitoring with Grafana.
-
-### 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
-![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=playwright)
-![Puppeteer](https://img.shields.io/badge/-Puppeteer-333333?style=flat&logo=puppeteer)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
-![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
 
 ## Milestone
 - **API Migration:** Successfully reduced the execution time from approximately 15 minutes to just 2 minutes by migrating it to Kubernetes. This migration not only improved performance but also enhanced the scalability and reliability of the API, allowing it to handle larger volumes of requests with ease. The Kubernetes deployment ensured optimal resource allocation and automated scaling based on demand.

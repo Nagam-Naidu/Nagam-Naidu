@@ -1,6 +1,6 @@
 I'm Nagam Naidu 👋
 
-### Lead SDET | Automation Engineer | CI/CD Enthusiast
+### Engineering Manager | Automation Architect | AI & GenAI in Testing | CI/CD & DevOps | Driving Digital Transformation
 
 I'm passionate about building robust and scalable automation frameworks from scratch. With a deep understanding of testing methodologies and automation technologies, I specialize in creating end-to-end solutions that are not only efficient but also adaptable to evolving project needs. My frameworks are designed to integrate seamlessly into CI/CD pipelines, ensuring continuous delivery of high-quality software.
 
